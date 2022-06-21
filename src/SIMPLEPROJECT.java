@@ -7,6 +7,7 @@ public class SIMPLEPROJECT {
 		System.out.println("Please enter a string");
 		String s4=sc.nextLine();
 		System.out.println("Please enter the character to remove");
+		//changed in git hub
 		String noNeed = sc.nextLine();
 		s4=s4.replace(noNeed,"");
 		System.out.println(s4);		
