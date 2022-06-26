@@ -9,6 +9,7 @@ public class SIMPLEPROJECT {
 		System.out.println("Please enter the character to remove");
 		//commit 1
 		//commit 2
+		//commit 3
 		String noNeed = sc.nextLine();
 		s4=s4.replace(noNeed,"");
 		System.out.println(s4);		
